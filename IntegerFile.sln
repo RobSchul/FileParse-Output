@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerFile", "IntegerFile\IntegerFile.csproj", "{2867F318-DF69-4236-AA46-EC56E1B4B0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerFileTests", "IntegerFileTests\IntegerFileTests.csproj", "{DA6DD67A-F259-4A17-A3A3-98EABA9C8F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2867F318-DF69-4236-AA46-EC56E1B4B0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2867F318-DF69-4236-AA46-EC56E1B4B0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2867F318-DF69-4236-AA46-EC56E1B4B0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2867F318-DF69-4236-AA46-EC56E1B4B0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6DD67A-F259-4A17-A3A3-98EABA9C8F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6DD67A-F259-4A17-A3A3-98EABA9C8F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6DD67A-F259-4A17-A3A3-98EABA9C8F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6DD67A-F259-4A17-A3A3-98EABA9C8F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F3ADE47-A04B-4A33-8D30-C5D1207E6070}
+	EndGlobalSection
+EndGlobal
