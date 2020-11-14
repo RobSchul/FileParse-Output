@@ -9,3 +9,14 @@ C:\Users\rober\Desktop\FormFree\IntegerFile\IntegerFile\obj\Debug\netcoreapp3.1\
 C:\Users\rober\Desktop\FormFree\IntegerFile\IntegerFile\obj\Debug\netcoreapp3.1\IntegerFile.AssemblyInfo.cs
 C:\Users\rober\Desktop\FormFree\IntegerFile\IntegerFile\obj\Debug\netcoreapp3.1\IntegerFile.dll
 C:\Users\rober\Desktop\FormFree\IntegerFile\IntegerFile\obj\Debug\netcoreapp3.1\IntegerFile.pdb
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\bin\Debug\netcoreapp3.1\IntegerFile.exe
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\bin\Debug\netcoreapp3.1\IntegerFile.deps.json
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\bin\Debug\netcoreapp3.1\IntegerFile.runtimeconfig.json
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\bin\Debug\netcoreapp3.1\IntegerFile.runtimeconfig.dev.json
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\bin\Debug\netcoreapp3.1\IntegerFile.dll
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\bin\Debug\netcoreapp3.1\IntegerFile.pdb
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\obj\Debug\netcoreapp3.1\IntegerFile.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\obj\Debug\netcoreapp3.1\IntegerFile.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\obj\Debug\netcoreapp3.1\IntegerFile.AssemblyInfo.cs
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\obj\Debug\netcoreapp3.1\IntegerFile.dll
+C:\Users\rober\Desktop\FormFree\IntegerFile\Assessment1\IntegerFile\obj\Debug\netcoreapp3.1\IntegerFile.pdb

@@ -67,7 +67,7 @@ namespace IntegerFileTests
                 PrimeFactors pF = new PrimeFactors();
                 var output = pF.PrimeFactorsOut(228);
 
-                if(output.Length > 1)
+                if(output.Equals("2,2,3,19"))
                 {
                     Assert.True(true);
                 }
