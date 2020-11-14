@@ -12,8 +12,11 @@ namespace IntegerFileTests
         {
             try
             {
+                var e = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location);
+                e = e.Remove(e.Length - 23, 23);
+
                 FileReader fl = new FileReader();
-                fl.FileRead(@"C:\Users\rober\Desktop\FormFree\IntegerFile\IntegerFile\TestFiles\TestFile2.txt");
+                fl.FileRead(e + "\\TestFiles\\TestFile2.txt");
             }
             catch(Exception e)
             {
@@ -33,8 +36,11 @@ namespace IntegerFileTests
         {
             try
             {
+                var e = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location);
+                e = e.Remove(e.Length - 23, 23);
+
                 FileReader fl = new FileReader();
-               var list =  fl.FileRead(@"C:\Users\rober\Desktop\FormFree\IntegerFile\IntegerFile\TestFiles\TestFile1.txt");
+               var list =  fl.FileRead(e + "\\TestFiles\\TestFile1.txt");
                
                 if(list.Count > 1)
                 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFileTests\\IntegerFileTests.csproj": {}
+    "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFileTests\\IntegerFileTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFileTests\\IntegerFileTests.csproj": {
+    "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFileTests\\IntegerFileTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFileTests\\IntegerFileTests.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFileTests\\IntegerFileTests.csproj",
         "projectName": "IntegerFileTests",
-        "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFileTests\\IntegerFileTests.csproj",
+        "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFileTests\\IntegerFileTests.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFileTests\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFileTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj": {
-                "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj"
+              "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj": {
+                "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj": {
+    "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj",
         "projectName": "IntegerFile",
-        "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj",
+        "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj",
       "projectName": "IntegerFile",
-      "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

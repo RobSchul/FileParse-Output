@@ -6601,11 +6601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFileTests\\IntegerFileTests.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFileTests\\IntegerFileTests.csproj",
       "projectName": "IntegerFileTests",
-      "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFileTests\\IntegerFileTests.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFileTests\\IntegerFileTests.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFileTests\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFileTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6621,8 +6621,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj": {
-              "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\IntegerFile\\IntegerFile.csproj"
+            "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\FormFree\\IntegerFile\\Assessment1\\IntegerFile\\IntegerFile.csproj"
             }
           }
         }
