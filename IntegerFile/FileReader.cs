@@ -6,6 +6,11 @@ namespace IntegerFile
 {
     public class FileReader
     {
+        /// <summary>
+        /// Make sure we can read the file and that it exists. if there are any strings in the file it fails any failure says that there is an issue with the file
+        /// </summary>
+        /// <param name="filePath"></param>
+        /// <returns></returns>
         public  LinkedList<int> FileRead(string filePath)
         {
             try
